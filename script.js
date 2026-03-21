@@ -13,16 +13,9 @@ const projects = [
   {
     title: "Plusinv",
     description: "A multi-tenant platform for business rental owners",
-    image: "src/project3.jpg",
+    image: "src/project3.png",
     tags: ["React", "Next.js", "tRPC", "Github Actions", "Vercel", "Railway"],
     link: "https://plusinv.online"
-  },
-  {
-    title: "Weather Dashboard",
-    description: "An interactive weather application providing real-time forecasts, historical data visualization, and location-based alerts. Includes a 7-day forecast with hourly breakdowns.",
-    image: "src/project4.jpg",
-    tags: ["React", "OpenWeather API", "Chart.js"],
-    link: "#"
   },
   {
     title: "School Information System",
