@@ -11,6 +11,13 @@ const projects = [
     link: "https://plusinv.online"
   },
   {
+    title: "School Event Management System",
+    description: "A platform for student councils to manage school activities such as basketball tryouts, seminars, and campus events. Features student attendance tracking, event registration, and a post-event feedback system where attendees can rate and leave reviews once an event is completed. Includes interactive analytics dashboards with Chart.js to visualize attendance trends and feedback ratings, as well as a polling system for gathering student input on future events.",
+    image: "src/project4.png",
+    tags: ["PHP", "MySQL", "Chart.js", "Attendance", "Feedback System", "Polling System"],
+    link: "#"
+  },
+  {
     title: "School Information System",
     description: "A comprehensive student information system featuring an interactive 3D school tour powered by Three.js. Manage student records, grades, attendance, and enrollment with robust analytics dashboards and custom reporting tools.",
     image: "src/no_image_provided.png",
@@ -29,13 +36,6 @@ const projects = [
     description: "A human resource information system for managing employee data, payroll, leave requests, and performance reviews. Includes interactive analytics dashboards with Chart.js, employee self-service portal, and automated workflows.",
     image: "src/no_image_provided.png",
     tags: ["Laravel", "MySQL", "Chart.js"],
-    link: "#"
-  },
-  {
-    title: "School Event Management System",
-    description: "A platform for student councils to manage school activities such as basketball tryouts, seminars, and campus events. Features student attendance tracking, event registration, and a post-event feedback system where attendees can rate and leave reviews once an event is completed. Includes interactive analytics dashboards with Chart.js to visualize attendance trends and feedback ratings, as well as a polling system for gathering student input on future events.",
-    image: "src/project4.png",
-    tags: ["PHP", "MySQL", "Chart.js", "Attendance", "Feedback System", "Polling System"],
     link: "#"
   },
 ];
