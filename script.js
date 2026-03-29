@@ -31,6 +31,13 @@ const projects = [
     tags: ["Laravel", "MySQL", "Chart.js"],
     link: "#"
   },
+  {
+    title: "School Event Management System",
+    description: "A platform for student councils to manage school activities such as basketball tryouts, seminars, and campus events. Features student attendance tracking, event registration, and a post-event feedback system where attendees can rate and leave reviews once an event is completed. Includes interactive analytics dashboards with Chart.js to visualize attendance trends and feedback ratings, as well as a polling system for gathering student input on future events.",
+    image: "src/project4.png",
+    tags: ["PHP", "MySQL", "Chart.js", "Attendance", "Feedback System", "Polling System"],
+    link: "#"
+  },
 ];
 
 const skills = [
